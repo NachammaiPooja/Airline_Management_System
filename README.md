@@ -39,6 +39,17 @@ This repository contains the source code and documentation with all diagrams for
    <li> View & respond to cancellation requests </li>
    <li> Cancel a flight due to unavoidable circumstances </li>
    </ul>
+   
+### Diagrams:
+  + Use Case
+  + Domain
+  + Class
+  + Sequence
+  + State Machine
+  + Activity
+  + Package
+  + Component
+  + Deployment
 
 The Outputs of this project can be viewed [here](./screenshots)
 
