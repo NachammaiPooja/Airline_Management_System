@@ -1,5 +1,5 @@
 # Online Airline Management System
-This repository contains the source code for the airline management system developed using FLASK framework and written in python3. It is an integrated system which eases the process of ticket booking. This system allows cutomer to search,book and cancel flights. The administrator can manage the tickets booked as well as add and delete flights. This system reduces the time consumed in reservation of tickets for both the cutomer as well as the airline.
+This repository contains the source code and documentation with all diagrams for the airline management system developed using FLASK framework and written in python3. It is an integrated system which eases the process of ticket booking. This system allows cutomer to search,book and cancel flights. The administrator can manage the tickets booked as well as add and delete flights. This system reduces the time consumed in reservation of tickets for both the cutomer as well as the airline.
 
 ### Tools used:
 #### Front-end 
